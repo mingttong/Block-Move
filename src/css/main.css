@@ -1,0 +1,9 @@
+.block {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color: #078cfd;
+    display: inline-block;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+}
